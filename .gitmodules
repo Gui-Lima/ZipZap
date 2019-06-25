@@ -1,0 +1,6 @@
+[submodule "ZipZap-Server"]
+	path = ZipZap-Server
+	url = https://github.com/Gui-Lima/ZipZap-Server.git
+[submodule "ZipZap-Client"]
+	path = ZipZap-Client
+	url = https://github.com/Gui-Lima/ZipZap-Client
